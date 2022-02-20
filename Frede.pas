@@ -31,7 +31,7 @@ end;
    circle(x,y-130,50);
  end;
  
- procedure sharic2;
+ procedure sharic2; //процедура анимации
  begin
  setbrushcolor(clMaroon);
    line(x,y,x+20,y+50);
